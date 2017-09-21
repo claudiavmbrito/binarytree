@@ -1,4 +1,4 @@
-# binarytree
+# Binary Tree in Java
 This is the Java implementation of Binary Tree. Not Binary Search Tree.
 
 For the insert method. I try to make tree as a complete binary tree or full binary tree.
